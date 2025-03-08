@@ -22,17 +22,17 @@ const user1: User1 = {
 console.log(user1);
 
 // Interface: Defining a structure for a person
-interface Person {
+interface Person2 {
   name: string;
   age: number;
 }
 
 // Extending an interface to include additional properties
-interface Employee extends Person {
+interface Employee2 extends Person2 {
   jobTitle: string;
 }
 
-const emp: Employee = {
+const emp: Employee2 = {
   name: "Alireza",
   age: 25,
   jobTitle: "Developer",
