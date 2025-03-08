@@ -4,7 +4,7 @@ This tutorial assumes familiarity with basic JavaScript concepts. It does not ex
 
 ## Benefits of TypeScript
 
-- **Extra Compilation Step Added: TypeScript provides a wrapper layer of compilation; hence, this allows the developer to catch the bugs in an early stage of development, helping you write more robust and maintainable code.
+- **Extra Compilation Step Added**: TypeScript provides a wrapper layer of compilation; hence, this allows the developer to catch the bugs in an early stage of development, helping you write more robust and maintainable code.
 - **Strong and Static Typing**: TypeScript enforces strong typing. It allows for better predictability of code and helps developers avoid runtime errors. The types in TypeScript are checked at compile-time, which enhances the reliability of the code.
 
 - **Type Definitions for Popular JavaScript Libraries**: TypeScript has type definitions for a large number of popular JavaScript libraries. This allows the use of features in an IDE such as autocompletion, type checking, and refactoring support.
